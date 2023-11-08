@@ -24,6 +24,7 @@ git pull
 ```
 bash you_file_name.sh
 
-#if source file not activate then use:
+#if source file not activate from init_setp.sh
+# then activate manually:
 source activate ./env
 ```
